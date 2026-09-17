@@ -7,11 +7,11 @@ Hong Kong SAR Government;Compliance with regulations;90;60;95;85;0.1
 HKDCS;Marine ecology impact;100;10;80;60;0.35
 HKDCS;Chinese white dolphin habitat;100;0;85;60;0.5
 HKDCS;Noise pollution;85;35;75;80;0.15
-Contractors;Profitability;5;100;15;65;0.5
+Contractors;Profitability;5;100;15;65;0.65
 Contractors;Technical feasibility;95;55;80;75;0.2
 Contractors;Construction risk;95;40;85;80;0.15
-Contractors;Labour and material requirements;95;40;95;70;0.15
 Local communities;Noise pollution;75;35;75;70;0.35
 Local communities;Air quality and health;80;35;75;80;0.3
 Local communities;Opportunities;40;90;40;65;0.2
 Local communities;Construction disturbance;95;15;75;80;0.15
+;;975;745;895;1020;
