@@ -1,0 +1,26 @@
+MCDA 3RS Design Alternatives;;;;;;
+Stakeholder;Criteria;Status quo;Third runway;Regional hub distribution;Airport optimalization;Criteria_Weight
+Hong Kong SAR Government;Economic benefits;25;95;30;65;0.35
+Hong Kong SAR Government;Safety;65;80;70;85;0.25
+Hong Kong SAR Government;Marine ecology;0;0;0;0;0
+Hong Kong SAR Government;Compliance with regulations;90;60;95;85;0.1
+Hong Kong SAR Government;Air quality and noise pollution;0;0;0;0;0
+Hong Kong SAR Government;Global Reputation and Competitiveness;25;95;15;70;0.3
+HKDCS;Economic benefits;0;0;0;0;0
+HKDCS;Safety;0;0;0;0;0
+HKDCS;Marine ecology;100;10;80;60;0.7
+HKDCS;Compliance with regulations;0;0;0;0;0
+HKDCS;Air quality and noise pollution;85;35;75;80;0.3
+HKDCS;Global Reputation and Competitiveness;0;0;0;0;0
+Contractors;Economic benefits;5;100;15;65;0.5
+Contractors;Safety;70;35;55;60;0.15
+Contractors;Marine ecology;0;0;0;0;0
+Contractors;Compliance with regulations;70;40;55;60;0.15
+Contractors;Air quality and noise pollution;0;0;0;0;0
+Contractors;Global Reputation and Competitiveness;50;85;60;70;0.2
+Local communities;Economic benefits;40;90;40;65;0.55
+Local communities;Safety;0;0;0;0;0
+Local communities;Marine ecology;70;10;50;30;0.15
+Local communities;Compliance with regulations;0;0;0;0;0
+Local communities;Air quality and noise pollution;75;35;75;70;0.4
+Local communities;Global Reputation and Competitiveness;0;0;0;0;0
